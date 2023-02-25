@@ -1,7 +1,7 @@
 # What this document is about
 A documentation of the standard operating procedures and processes of the AWS Cloud Security community in West Africa
 
-### Community Leadership
+### Understanding our current leadership structure
 * Our community is made up of three leadership units - CORE Leaders, COMMUNITY Leaders, STUDENT Leaders
 * The names of all our leaders are available publicly
 
@@ -15,6 +15,18 @@ A documentation of the standard operating procedures and processes of the AWS Cl
   * Tolulope Adeleke
   
 * The CORE leadership policy document can be found here: [CORE Leadership Policy](core-leadership-policy.md)
+
+### COMMUNITY Leadership
+* The COMMUNITY leadership is made up of seventeen (17) people
+* The COMMUNITY leadership policy document can be found here: [COMMUNITY Leadership Policy](community-leadership-policy.md)
+
+### STUDENT Leadership
+* The STUDENT leadership are made up of students that lead AWS communities in their educational institutions
+* The main commnunity are committed to providing support to the student leaders in terms of event sponsorship, event speakers, access to use the main community's meetup, streaming platforms and social media to promote and broadcast their events 
+* We currently have two students leaders 
+  * Anne Usang - University of Uyo
+  * Pelumi Fadahunsi - Covenant University
+
 
 ### Publication Writers
 * The community has a [paid for medium publication](https://medium.com/aws-security-user-group-west-africa) that members can contribute to  
