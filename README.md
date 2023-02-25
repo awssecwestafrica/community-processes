@@ -19,3 +19,12 @@ A documentation of the standard operating procedures and processes of the AWS Cl
 ### Publication Writers
 * The community has a [paid for medium publication](https://medium.com/aws-security-user-group-west-africa) that members can contribute to  
 * The Publication writers policy document can be found here: [Publication Writers Policy](publication-writers-policy.md)
+
+### Community Public Profiles
+* Meetup - [https://rebrand.ly/awssecwestafrica-meetup](https://rebrand.ly/awssecwestafrica-meetup)
+* YouTube - [https://rebrand.ly/awssecwestafrica-youtube](https://rebrand.ly/awssecwestafrica-youtube)
+* Twitch - [https://rebrand.ly/awssecwestafrica-twitch](https://rebrand.ly/awssecwestafrica-twitch)
+* Twitter - [https://rebrand.ly/awssecwestafrica-twitter](https://rebrand.ly/awssecwestafrica-twitter)
+* Medium - [https://rebrand.ly/awssecwestafrica-medium](https://rebrand.ly/awssecwestafrica-medium)
+* LinkedIn - [https://rebrand.ly/awssecwestafrica-linkedin](https://rebrand.ly/awssecwestafrica-linkedin)
+* GitHub - [https://github.com/awssecwestafrica/](https://github.com/awssecwestafrica/)
