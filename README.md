@@ -15,3 +15,7 @@ A documentation of the standard operating procedures and processes of the AWS Cl
   * Tolulope Adeleke
   
 * The CORE leadership policy document can be found here: [CORE Leadership Policy](core-leadership-policy.md)
+
+### Publication Writers
+* The community has a [paid for medium publication](https://medium.com/aws-security-user-group-west-africa) that members can contribute to  
+* The Publication writers policy document can be found here: [Publication Writers Policy](publication-writers-policy.md)
