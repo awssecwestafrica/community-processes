@@ -13,6 +13,7 @@ A documentation of the standard operating procedures and processes of the AWS Cl
   * Nwojiji Blessing
   * Tayo Fatoki
   * Tolulope Adeleke
+  * Promise Uche Nwachukwu
   
 * The CORE leadership policy document can be found here: [CORE Leadership Policy](core-leadership-policy.md)
 
