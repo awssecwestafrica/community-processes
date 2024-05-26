@@ -7,13 +7,13 @@ A documentation of the standard operating procedures and processes of the AWS Cl
 
 ### CORE Leadership
 * The CORE leadership is made up of seven people (four males and three females)
-  * David Okeyode
-  * Imoh Etuk
-  * Olajumoke Toriola
   * Nwojiji Blessing
+  * Imoh Etuk
+  * David Okeyode
   * Tayo Fatoki
   * Tolulope Adeleke
   * Promise Uche Nwachukwu
+  * Ejiroghene Pepper
   
 * The CORE leadership policy document can be found here: [CORE Leadership Policy](core-leadership-policy.md)
 
