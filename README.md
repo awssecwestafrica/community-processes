@@ -6,7 +6,7 @@ A documentation of the standard operating procedures and processes of the AWS Cl
 * The names of all our leaders are available publicly
 
 ### CORE Leadership (Active)
-* The CORE leadership is made up of seven people (four males and three females)
+* The CORE leadership is made up of four people (one male and three females)
   * Nwojiji Blessing
   * Tolulope Adeleke
   * Promise Uche Nwachukwu
