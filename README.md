@@ -25,7 +25,6 @@ A documentation of the standard operating procedures and processes of the AWS Cl
 * We currently have one active students leader 
   * Akande Olalekan Toheeb - University of Ilorin
 
-
 ### Publication Writers
 * The community has a [paid for medium publication](https://medium.com/aws-security-user-group-west-africa) that members can contribute to  
 * The Publication writers policy document can be found here: [Publication Writers Policy](publication-writers-policy.md)
