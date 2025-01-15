@@ -18,3 +18,6 @@
   * Once the direction is agreed, communicate the goals to all leadership units and the AWS community team
   * Strategic and operational coordination of defined community activities
   * Write at least one monthly report on what has been achieved recently. The report needs to be communicated to the community leadership group, AWS Community team and AWS Slack.
+ 
+* The AWS User group slack channel only allows for FIVE leaders to be added.
+  * At any point, the main leader and the co-leader should be part of this channel (please notify the AWS community manager to update as needed) 
