@@ -5,17 +5,15 @@ A documentation of the standard operating procedures and processes of the AWS Cl
 * Our community is made up of three leadership units - CORE Leaders, COMMUNITY Leaders, STUDENT Leaders
 * The names of all our leaders are available publicly
 
-### CORE Leadership
+### CORE Leadership (Active)
 * The CORE leadership is made up of seven people (four males and three females)
   * Nwojiji Blessing
-  * Imoh Etuk
-  * David Okeyode
-  * Tayo Fatoki
   * Tolulope Adeleke
   * Promise Uche Nwachukwu
   * Ejiroghene Pepper
   
 * The CORE leadership policy document can be found here: [CORE Leadership Policy](core-leadership-policy.md)
+* We also have supporting "bench" leaders that support in the background in an advisory and financial sponsorship role
 
 ### COMMUNITY Leadership
 * The COMMUNITY leadership is made up of seventeen (17) people
@@ -24,9 +22,8 @@ A documentation of the standard operating procedures and processes of the AWS Cl
 ### STUDENT Leadership
 * The STUDENT leadership are made up of students that lead AWS communities in their educational institutions
 * The main commnunity are committed to providing support to the student leaders in terms of event sponsorship, event speakers, access to use the main community's meetup, streaming platforms and social media to promote and broadcast their events 
-* We currently have two students leaders 
-  * Anne Usang - University of Uyo
-  * Pelumi Fadahunsi - Covenant University
+* We currently have one active students leader 
+  * Akande Olalekan Toheeb - University of Ilorin
 
 
 ### Publication Writers
