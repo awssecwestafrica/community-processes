@@ -13,6 +13,7 @@ A documentation of the standard operating procedures and processes of the AWS Cl
   * Ejiroghene Pepper
   
 * The CORE leadership policy document can be found here: [CORE Leadership Policy](core-leadership-policy.md)
+* We have active leaders who are at the forefront of leadership
 * We also have supporting "bench" leaders that support in the background in an advisory and financial sponsorship role
 
 ### COMMUNITY Leadership
