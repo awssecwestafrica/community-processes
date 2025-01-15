@@ -1,4 +1,11 @@
 # CORE Leadership Policy
+
+* What we look for in our CORE leaders
+  * **1 - Community spirit**: This is CORE to how we operate as a leadership group. We seek to add value to the community and not just benefit ourselves.
+  * **2 - Good with execution**: As leaders, we avoid hibernation. If/when we have availability, we look for ways to contribute to community activities and the growth of others without being prompted by anyone.
+  * **3 - Corporate exposure**:  This is important when we engage with corporate institutions. We conduct these engagements with professionalism knowing that we represent the rest of our community. If you do not have such exposure, you can always shadow an experienced leader to develop this.
+  * **4 - Technical competence**: We learn AWS technologies that we are interested in and we mentor others towards growth
+
 * Being a CORE leader is not just a title, it carries certain responsibilities that leaders will be accountable to deliver
   * ORGANIZING activities (not just participation or volunteering activities)
   * Organizing events (know how to use meetup; know how to use restream; know the community structure and social media channels)
